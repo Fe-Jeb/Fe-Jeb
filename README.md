@@ -1,4 +1,4 @@
-# Olá! Eu sou o Hanry Gilvan de Oliveira Próprio
+# Olá! Eu sou o Felipe Jeb Guedes de Azevedo 
 <div>
 <a href="https://beacons.ai/Fe-Jeb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Jeb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,7 +7,7 @@
   
 # Sobre
 
-  <p>Conto com sólida experiência na área administrativa e possuo habilidades em manutenção elétrica e linguagens de programação.</p>
+  <p>Estudante em formação no curso de análise e desenvolvimento de sistemas IFSP-BRA</p>
   
 # Linguagem de Programação que conheço
   
@@ -20,8 +20,8 @@
 ##
 
 <div> 
-  <a href="https://www.instagram.com/hanryproprio/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:hanry.proprio@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/felipejeb/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:f.jeb@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fe-Jeb/Fe-Jeb/output/github-contribution-gridsnake-dark.svg">
